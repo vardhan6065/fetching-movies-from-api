@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fetching-movies-from-api/static/css/main.385eb378.chunk.css",
+    "main.js": "/fetching-movies-from-api/static/js/main.b27a7cc7.chunk.js",
+    "main.js.map": "/fetching-movies-from-api/static/js/main.b27a7cc7.chunk.js.map",
+    "runtime-main.js": "/fetching-movies-from-api/static/js/runtime-main.9235c91f.js",
+    "runtime-main.js.map": "/fetching-movies-from-api/static/js/runtime-main.9235c91f.js.map",
+    "static/js/2.ad3588c6.chunk.js": "/fetching-movies-from-api/static/js/2.ad3588c6.chunk.js",
+    "static/js/2.ad3588c6.chunk.js.map": "/fetching-movies-from-api/static/js/2.ad3588c6.chunk.js.map",
+    "index.html": "/fetching-movies-from-api/index.html",
+    "precache-manifest.65aaa8664c0b60dddc1d4e723005093a.js": "/fetching-movies-from-api/precache-manifest.65aaa8664c0b60dddc1d4e723005093a.js",
+    "service-worker.js": "/fetching-movies-from-api/service-worker.js",
+    "static/css/main.385eb378.chunk.css.map": "/fetching-movies-from-api/static/css/main.385eb378.chunk.css.map",
+    "static/js/2.ad3588c6.chunk.js.LICENSE.txt": "/fetching-movies-from-api/static/js/2.ad3588c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9235c91f.js",
+    "static/js/2.ad3588c6.chunk.js",
+    "static/css/main.385eb378.chunk.css",
+    "static/js/main.b27a7cc7.chunk.js"
+  ]
+}
